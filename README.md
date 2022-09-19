@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @killuaDev
-- 👀 I’m interested in linguistics, coding, and music
-- 🌱 I’m currently learning swift and japanese 
-- 📫 How to reach me: This github, or on twitter @killuaDev
+- 👀 I’m interested in linguistics, language education, coding, and music
+- 🌱 I’m currently learning swift and Irish 
+- 📫 How to reach me: This github
 
 <!---
 killuaDev/killuaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
