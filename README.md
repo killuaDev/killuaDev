@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @killuaDev
 - 👀 I’m interested in linguistics, language education, coding, and music
-- 🌱 I’m currently learning swift and Irish 
+- 🌱 I’m currently learning c, scheme, and Irish 
 - 📫 How to reach me: This github
 
 <!---
