@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @killuaDev
-- 👀 I’m interested in linguistics, language education, coding, and music
-- 🌱 I’m currently learning c, scheme, and Irish 
-- 📫 How to reach me: This github
+# Hi, I’m @killuaDev
+
+I'm interested in the Irish Language and like to make programs and websites relating to it.
+I also like to make various other games and programs
 
 <!---
 killuaDev/killuaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
